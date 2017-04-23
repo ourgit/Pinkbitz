@@ -1,6 +1,6 @@
 [Protocol]
-exec=blackcoin-qt '%u'
-protocol=blackcoin
+exec=PinkBitz-qt '%u'
+protocol=PinkBitz
 input=none
 output=none
 helper=true
